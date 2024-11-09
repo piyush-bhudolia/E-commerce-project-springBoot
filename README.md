@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Old Version
 - https://github.com/jaygajera17/E-commerce-project-springBoot/tree/main
 - issue: everytime connection open close for access database 
@@ -112,3 +113,6 @@ The following guides illustrate how to use some features concretely:
 
 [youtube-shield]:https://img.shields.io/youtube/views/c6WWdINWSlI?style=social
 [youtube-url]:  https://youtu.be/c6WWdINWSlI
+=======
+# E-commerce-project-springBoot
+>>>>>>> e3815cf3aca8c3f2c1b9a5e1ee5449d2e6c3c3b4
